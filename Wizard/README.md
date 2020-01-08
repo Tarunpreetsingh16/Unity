@@ -7,13 +7,15 @@
 
 
 ### Here are some screenshots of the game.
-![Landing Screen]()
 
+#### Landing Screen
+![Landing Screen](https://github.com/Tarunpreetsingh16/Unity/blob/master/Wizard/screenshots/landingScreen.png)
 
-![Main Screen]()
+####  Main screen
+![Main Screen](https://github.com/Tarunpreetsingh16/Unity/blob/master/Wizard/screenshots/mainScreen.png)
 
-
-![Last Screen]()
+#### Last screen
+![Last Screen](https://github.com/Tarunpreetsingh16/Unity/blob/master/Wizard/screenshots/lastScreen.png)
 
 
 
